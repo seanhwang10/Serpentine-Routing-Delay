@@ -1,5 +1,7 @@
 # Serpentine Routing Visualization
 
+![](https://github.com/seanhwang10/Serpentine-Routing-Delay/blob/main/2025-02-16_23-09-12.png)
+
 This interactive Python script visualizes various trace geometries using Matplotlib and NumPy. The visualization features three subplots that update in real time as you adjust two parameters: **Trace Length (mils)** and **Trace Width (mils)**.
 
 ## Overview
