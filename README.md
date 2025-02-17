@@ -35,7 +35,7 @@ so that its (quarter‑circumference) lengths are computed as:
    - **Red Right Angle Bend:** The same L-shaped red trace.
    - **Green Quarter Circle:** A quarter circle is drawn such that its arc length equals the inner length of the red right angle bend. Its radius is computed as  
      \[
-     R_{\text{quarter}} = $$\frac{2}{\pi}(L - W)$$
+     $$R_{\text{quarter}} = \frac{2}{\pi}(L - W)$$
      \]
    - **Text Labels:** A red text label displays the right angle bend’s centerline length, and a green text label shows the quarter circle’s arc length.
 
