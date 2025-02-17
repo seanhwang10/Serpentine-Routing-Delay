@@ -2,7 +2,7 @@
 
 ![](https://github.com/seanhwang10/Serpentine-Routing-Delay/blob/main/2025-02-16_23-09-12.png)
 
-![](https://github.com/seanhwang10/Serpentine-Routing-Delay/blob/main/2025-02-16_23-09-12.png)
+
 
 This interactive Python script visualizes various trace geometries using Matplotlib and NumPy. The visualization features three subplots that update in real time as you adjust two parameters: **Trace Length (mils)** and **Trace Width (mils)**.
 
@@ -19,17 +19,19 @@ The script displays three subplots:
 2. **Plot 2: Right Angle Bend with Circular Trace (Green)**  
    
    - **Red Right Angle Bend:** The same L-shaped red trace as in Plot 1.
-Green Circular Trace: A full circular trace drawn in green. Its geometry is based on the radius
+     Green Circular Trace: A full circular trace drawn in green. Its geometry is based on the radius
 
 $$ R_{\text{green}} = \frac{L\sqrt{2}}{2} $$
 
 so that its (quarter‑circumference) lengths are computed as:
 
 - **Center:** $$\( \frac{\pi}{2} \, R_{\text{green}} \)$$
-- **Inner:** $$\( \frac{\pi}{2}\left(R_{\text{green}} - \frac{W}{2}\right) \)$$
-- **Outer:** $$\( \frac{\pi}{2}\left(R_{\text{green}} + \frac{W}{2}\right) \)$$
-   - **Text Labels:** Two separate text labels display the computed lengths: one (in red) for the right angle bend and one (in green) for the green circular trace.
 
+- **Inner:** $$\( \frac{\pi}{2}\left(R_{\text{green}} - \frac{W}{2}\right) \)$$
+
+- **Outer:** $$\( \frac{\pi}{2}\left(R_{\text{green}} + \frac{W}{2}\right) \)$$
+  
+  - **Text Labels:** Two separate text labels display the computed lengths: one (in red) for the right angle bend and one (in green) for the green circular trace.
 3. **Plot 3: Right Angle Bend with Quarter Circle Matching Inner Length**  
    
    - **Red Right Angle Bend:** The same L-shaped red trace.
