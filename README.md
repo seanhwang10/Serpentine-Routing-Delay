@@ -1,4 +1,6 @@
-# Serpentine Routing Visualization
+# 90 Degree and Circular Bend in Serpentine Routing
+
+![](https://github.com/seanhwang10/Serpentine-Routing-Delay/blob/main/2025-02-16_23-09-12.png)
 
 ![](https://github.com/seanhwang10/Serpentine-Routing-Delay/blob/main/2025-02-16_23-09-12.png)
 
