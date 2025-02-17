@@ -27,7 +27,7 @@ so that its (quarter‑circumference) lengths are computed as:
 
 - **Center:** $$\( \frac{\pi}{2} \, R_{\text{green}} \)$$
 - **Inner:** $$\( \frac{\pi}{2}\left(R_{\text{green}} - \frac{W}{2}\right) \)$$
-- **Outer:** \( \frac{\pi}{2}\left(R_{\text{green}} + \frac{W}{2}\right) \)
+- **Outer:** $$\( \frac{\pi}{2}\left(R_{\text{green}} + \frac{W}{2}\right) \)$$
    - **Text Labels:** Two separate text labels display the computed lengths: one (in red) for the right angle bend and one (in green) for the green circular trace.
 
 3. **Plot 3: Right Angle Bend with Quarter Circle Matching Inner Length**  
@@ -35,7 +35,7 @@ so that its (quarter‑circumference) lengths are computed as:
    - **Red Right Angle Bend:** The same L-shaped red trace.
    - **Green Quarter Circle:** A quarter circle is drawn such that its arc length equals the inner length of the red right angle bend. Its radius is computed as  
      \[
-     R_{\text{quarter}} = \frac{2}{\pi}(L - W)
+     R_{\text{quarter}} = $$\frac{2}{\pi}(L - W)$$
      \]
    - **Text Labels:** A red text label displays the right angle bend’s centerline length, and a green text label shows the quarter circle’s arc length.
 
